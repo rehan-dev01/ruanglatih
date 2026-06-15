@@ -44,9 +44,9 @@
 
 | Role  | Email                       | Password |
 | ----- | --------------------------- | -------- |
-| murid | ahmadkasim@gmail.com        | 123456   |
+| murid | rehanajiirfansyah@gmail.com | 123456   |
 | guru  | mtk@gmail.com               | 123456   |
-| Admin | admin12@gmail.com           | 123456   |
+| Admin | rehan@gmail.com             | 123456   |
 
 ---
 
