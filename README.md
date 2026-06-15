@@ -40,13 +40,6 @@
 <!-- untuk membuat akun guru bisa di buat oleh admin terlebih dahulu di panel admin>data penguna>data guru -->
 <!-- untuk murid cukup registrasi dan login seperti biasa di awal login-->
 
-## 🔑 Demo Login
-
-| Role  | Email                       | Password |
-| ----- | --------------------------- | -------- |
-| murid | rehanajiirfansyah@gmail.com | 123456   |
-| guru  | mtk@gmail.com               | 123456   |
-| Admin | rehan@gmail.com             | 123456   |
 
 ---
 
