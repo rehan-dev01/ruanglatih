@@ -36,9 +36,9 @@
 
 ---
 
-<!-- untuk buat admin baru register sebagai siswa lalu bisa ubah role di database sql -->
-<!-- untuk membuat akun guru bisa di buat oleh admin terlebih dahulu di panel admin>data penguna>data guru -->
-<!-- untuk murid cukup registrasi dan login seperti biasa di awal login-->
+<!-- untuk buat admin baru register sebagai siswa lalu bisa ubah role di database sql 
+<!-- untuk membuat akun guru bisa di buat oleh admin terlebih dahulu di panel admin>data penguna>data guru 
+<!-- untuk murid cukup registrasi dan login seperti biasa di awal login
 
 
 ---
